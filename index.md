@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Connor's Development profile
 
-You can use the [editor on GitHub](https://github.com/Phoenix-Alpha/Phoenix-Alpha.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the cental hub for all my published work. Some of it still under development, and hopefully some post development. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Not many complete (or incomplete) projects are available here yet. They are still undergoing the polishing process. However, any upcoming projects will be linked below when available. So keep an eye out below!
 
 ```markdown
 Syntax highlighted code block
