@@ -1,28 +1,24 @@
 ## Welcome to Connor's Development profile
 
-This is the cental hub for all my published work. Some of it still under development, and hopefully some post development. 
+This is the central hub for all my published work. Some of it is still under development, and hopefully some post development. 
 
 ### Projects
 
 Not many complete (or incomplete) projects are available here yet. They are still undergoing the polishing process. However, any upcoming projects will be linked below when available. So keep an eye out below!
 
-```markdown
-Syntax highlighted code block
+# 1. ConvolutionalNeuralNetwork
+## Brief
+The program was started as an intention to help develop my understanding of image processing as well as the inner functions of a neural network. After a long run of development the project was sidelined after i started studying but has now re entered development as a side project.
 
-# Header 1
-## Header 2
-### Header 3
+## Development intentions
+The project is going to be developed in two parts :
 
-- Bulleted
-- List
+### Image processing
+The image processing code, which will prepare the image data for entry into the neural network. This code will process the image data into a single line of data that can be entered into the neural networks input nodes. 
 
-1. Numbered
-2. List
+### Neural Network
+The second part of the project will be a neural network that will be developed independently from the image processing code. The neural network will be added to the image processing code upon completion.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
